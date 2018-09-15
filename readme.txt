@@ -1,2 +1,2 @@
-Git is a version control system.
-Flet us start to learn it.
+Git is a distributed version control system.
+let us start to learn it.
